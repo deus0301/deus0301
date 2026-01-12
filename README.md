@@ -26,9 +26,9 @@ I’m a **game developer** who enjoys building experiences focused on **atmosphe
 - 📷 Experimental input mechanics using **computer vision**
 
 ### 🧩 Projects
-- **Story-driven Escape Room** — investigation-focused experience with gradual narrative reveals  
-- **2D Top-Down Murder Mystery** — exploration-driven mystery with narrative progression  
-- **Psychological Thriller (WIP)** — experimenting with tension, atmosphere, and player psychology  
+- **The Last Clue** — Story driver escape room game. Investigation-focused experience with gradual narrative reveals  
+- **Truth Unraveled** — 2D Top-Down Murder Mystery. Exploration-driven mystery with narrative progression  
+- **Mercy 7.3 (Project Toxin)** — experimenting with tension, atmosphere, and player psychology. Psychological Thriller (WIP)
 - **Face Runner** — an endless runner inspired by *Subway Surfers*, controlled using **computer vision**, where player movement is driven by **real-time face tracking**
 
 ### ⚙️ How I like to build
